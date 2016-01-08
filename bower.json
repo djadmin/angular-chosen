@@ -6,7 +6,7 @@
     "example"
   ],
   "dependencies": {
-    "chosen": "git@github.com:harvesthq/bower-chosen.git",
+    "chosen": "https://github.com/harvesthq/bower-chosen.git",
     "angular": ">=1.2.0"
   }
 }
